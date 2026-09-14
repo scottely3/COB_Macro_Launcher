@@ -48,7 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EutTool.cs" />
+    <Compile Include="EU_Tools\CES Upate SegCompare.cs" />
+    <Compile Include="EU_Tools\COSMOS Update for CAQH.cs" />
+    <Compile Include="EU_Tools\COSMOS Update for SegComp.cs" />
+    <Compile Include="EU_Tools\CSP_FACETS_MED.cs" />
     <Compile Include="EU_Tools\E2E_NicePHS.cs" />
+    <Compile Include="EU_Tools\NICE Hospice Update.cs" />
+    <Compile Include="EU_Tools\NICE_MR_REALTIME_Update.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
